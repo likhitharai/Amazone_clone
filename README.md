@@ -9,4 +9,5 @@ This project is a clone created for educational purposes only and is not affilia
 
 Website link: https://likhitharai.github.io/Amazone_clone/
 
-![Uploading image.png…]()
+![image](https://github.com/likhitharai/Amazone_clone/assets/38128585/9c7d6559-7c82-41eb-ae48-fd2f62e4af15)
+
